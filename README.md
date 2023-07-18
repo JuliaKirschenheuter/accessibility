@@ -35,3 +35,8 @@
 * [einfach-fuer-alle](https://www.einfach-fuer-alle.de/)
 ## 📖 Free Online Course
 * [w3.org foundations course](https://www.w3.org/WAI/courses/foundations-course/)
+## 🎢 Automatisation && tests
+* [jest-axe](https://github.com/NickColley/jest-axe)
+* [jest-dom](https://github.com/testing-library/jest-dom)
+* [axe-core](https://github.com/dequelabs/axe-core)
+* [Testing Library](https://github.com/testing-library)
