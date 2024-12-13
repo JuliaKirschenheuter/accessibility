@@ -1,9 +1,13 @@
 # Summary of useful resources 
-## ⚠️ WCAG 2.1 (Web Content Accessibility Guidelines)
-* [WCAG21](https://www.w3.org/TR/WCAG21/)
-* [bitvtest](https://ergebnis.bitvtest.de/pruefverfahren/wcag-21-web)
+## ⚠️ WCAG 2.1 (Web Content Accessibility Guidelines) & WCAG 2.2
+* [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+* [WCAG 2.1](https://ergebnis.bitvtest.de/pruefverfahren/wcag-21-web)
+* [WCAG 2.2, DE](https://www.w3.org/TR/WCAG22/)
+* [WCAG 2.2, DE](https://bitvtest.de/pruefverfahren/wcag-22-web)
 ## ⚠️ BITV (EN 301 549) (Barrierefreie-Informationstechnik-Verordnung)
-* [bitvtest](https://ergebnis.bitvtest.de/pruefverfahren/bitv-20-web)
+* [bitvtest, DE](https://ergebnis.bitvtest.de/pruefverfahren/bitv-20-web)
+## ⚠️ BITV + WCAG 2.2 (Web)
+* [bitvtest + WCAG 2.2, DE](https://bitvtest.de/pruefverfahren/bitv-20-plus-web)
 ## 📘 Practical guide
 * [w3.org patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
 * [accessibility developer guide](https://www.accessibility-developer-guide.com/)
@@ -40,3 +44,5 @@
 * [jest-dom](https://github.com/testing-library/jest-dom)
 * [axe-core](https://github.com/dequelabs/axe-core)
 * [Testing Library](https://github.com/testing-library)
+## 🏅Certified inspirations
+* [websites](https://bitvtest.de/sites-und-agenturen/barrierefreie-websites)
