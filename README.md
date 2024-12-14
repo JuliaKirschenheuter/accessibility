@@ -1,8 +1,8 @@
 # Summary of useful resources 
 ## ⚠️ WCAG 2.1 (Web Content Accessibility Guidelines) & WCAG 2.2
-* [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
-* [WCAG 2.1](https://ergebnis.bitvtest.de/pruefverfahren/wcag-21-web)
-* [WCAG 2.2, DE](https://www.w3.org/TR/WCAG22/)
+* [WCAG 2.1, EN](https://www.w3.org/TR/WCAG21/)
+* [WCAG 2.1, DE](https://ergebnis.bitvtest.de/pruefverfahren/wcag-21-web)
+* [WCAG 2.2, EN](https://www.w3.org/TR/WCAG22/)
 * [WCAG 2.2, DE](https://bitvtest.de/pruefverfahren/wcag-22-web)
 ## ⚠️ BITV (EN 301 549) (Barrierefreie-Informationstechnik-Verordnung)
 * [bitvtest, DE](https://ergebnis.bitvtest.de/pruefverfahren/bitv-20-web)
